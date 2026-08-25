@@ -21,13 +21,13 @@ Technologies
 
 - Flutter
 - Dart
+## Screenshots
 
-##Screenshots
-![Screen 1](screenShots/screen1.png)
-
-![Screen 2](screenShots/screen2.png)
-
-![Screen 3](screenShots/screen3.png)
+<p align="center">
+  <img src="screenShots/screen1.png" width="250">
+  <img src="screenShots/screen2.png" width="250">
+  <img src="screenShots/screen3.png" width="250">
+</p>
 
 Getting Started
 
